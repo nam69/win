@@ -1,4 +1,4 @@
-active các phiên bản win 10 bằng cmd. AI biết rùi thì mong đừng gạch đá
+Active các phiên bản win 10 bằng cmd.
 -Windows 10 Home-
 1. Mở CMD (admin)
 2. Nhập lệnh: slmgr.vbs /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
