@@ -1,0 +1,54 @@
+active các phiên bản win 10 bằng cmd. AI biết rùi thì mong đừng gạch đá
+-Windows 10 Home-
+1. Mở CMD (admin)
+2. Nhập lệnh: slmgr.vbs /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+3. Nhập lệnh: slmgr.vbs /skms kms.digiboy.ir
+4. Nhập lệnh: slmgr.vbs /ato
+-Windows 10 Pro-
+1. Mở CMD (admin)
+2. Nhập lệnh: slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+3. Nhập lệnh: slmgr.vbs /skms kms.digiboy.ir
+4. Nhập lệnh: slmgr.vbs /ato
+-Windows 10 Enterprise-
+1. Mở CMD (admin)
+2. Nhập lệnh: slmgr.vbs /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
+3. Nhập lệnh: slmgr.vbs /skms kms.digiboy.ir
+4. Nhập lệnh: slmgr.vbs /ato
+- Windows 10 Education-
+1. Mở CMD (admin)
+2. Nhập lệnh: slmgr.vbs /ipk NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+3. Nhập lệnh: slmgr.vbs /skms kms.digiboy.ir
+4. Nhập lệnh: slmgr.vbs /ato
+-Windows 10 Home N-
+1. Mở CMD (admin)
+2. Nhập lệnh: slmgr.vbs /ipk 3KHY7-WNT83-DGQKR-F7HPR-844BM
+3. Nhập lệnh: slmgr.vbs /skms kms.digiboy.ir
+4. Nhập lệnh: slmgr.vbs /ato
+- Windows 10 Home SL-
+1. Mở CMD (admin)
+2. Nhập lệnh: slmgr.vbs /ipk 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+3. Nhập lệnh: slmgr.vbs /skms kms.digiboy.ir
+4. Nhập lệnh: slmgr.vbs /ato
+-Windows 10 Pro N-
+1. Mở CMD (admin)
+2. Nhập lệnh: slmgr.vbs /ipk MH37W-N47XK-V7XM9-C7227-GCQG9
+3. Nhập lệnh: slmgr.vbs /skms kms.digiboy.ir
+4. Nhập lệnh: slmgr.vbs /ato
+-Windows 10 Enterprise N-
+1. Mở CMD (admin)
+2. Nhập lệnh: slmgr.vbs /ipk DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+3. Nhập lệnh: slmgr.vbs /skms kms.digiboy.ir
+4. Nhập lệnh: slmgr.vbs /ato
+-Windows 10 Education N-
+1. Mở CMD (admin)
+2. Nhập lệnh: slmgr.vbs /ipk 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+3. Nhập lệnh: slmgr.vbs /skms kms.digiboy.ir
+4. Nhập lệnh: slmgr.vbs /ato
+*Lưu ý: Kích hoạt thành công hay không còn phụ thuộc server còn hoạt động hay không, trong trường hợp server không hoạt động thì các bạn thay server và kích hoạt lại như sau (áp dụng tất cả các server và phiên bản win 10):
+1. Mở CMD (admin)
+2. Nhập lênh: slmgr.vbs /skms 54.223.212.31
+3. Nhập lệnh: slmgr.vbs /ato
+Hoặc
+1. Mở CMD (admin)
+2. Nhập lênh: slmgr.vbs /skms kms.chinancce.com
+3. Nhập lệnh: slmgr.vbs /ato
